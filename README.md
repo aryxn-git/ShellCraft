@@ -1,4 +1,4 @@
-# SHELL
+# ShellCraft
 It is a replica of bash shell which is created using C. It can handle quotes and space perfectly.
 
 Following commands are implemented:
